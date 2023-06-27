@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(0.994782 0 0 1.00391 5.3429 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="18.5775" x2="705.991" y1="240.476" y2="482.445">
+<stop offset="0" stop-color="#9a2ff6"/>
+<stop offset="1" stop-color="#c03dbe"/>
+</linearGradient>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="1024" width="1024" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="레이어-1" vectornator:layerName="레이어 1">
+<path d="M921.946 0C896.275 10.604 871.727 24.4177 849.083 41.6659L233.221 510.769C98.8822 613.096 81.6206 794.619 194.688 916.197L298.678 1028L1024 1028L1024 0L921.946 0Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="#aede36" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="0" stroke-width="74.9204" vectornator:layerName="곡선 1"/>
+</g>
+</svg>
