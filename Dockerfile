@@ -3,7 +3,7 @@ COPY . .
 RUN npm i -D --legacy-peer-deps
 RUN npm i -g serve
 
-ENV PORT=9034
+ENV PORT=9058
 ENV NODE_ENV=production
 ENV VIRTUAL_HOST=mincomk.com
 
